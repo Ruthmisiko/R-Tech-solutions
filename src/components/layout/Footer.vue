@@ -49,7 +49,7 @@
               Contact Us
             </h4>
             <ul class="space-y-2 text-sm">
-              <li>Email: info@rtechsolutions.com</li>
+              <li>Email: rtechsolutions254@gmail.com</li>
               <li>Phone: +254 713 631 923</li>
               <li>Location: Nairobi, Kenya</li>
             </ul>

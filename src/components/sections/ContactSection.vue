@@ -73,11 +73,11 @@
             <div class="flex flex-col justify-center gap-6 text-gray-700">
               <div>
                 <h3 class="text-lg font-semibold text-greenDark">Email</h3>
-                <p>info@rtechsolutions.com</p>
+                <p>rtechsolutions254@gmail.com</p>
               </div>
               <div>
                 <h3 class="text-lg font-semibold text-greenDark">Phone</h3>
-                <p>+254 700 123 456</p>
+                <p>+254 713 631 923</p>
               </div>
               <div>
                 <h3 class="text-lg font-semibold text-greenDark">Address</h3>
